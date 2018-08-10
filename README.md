@@ -23,10 +23,10 @@ As regras de desenvolvimento deste desafio são encontradas no :https://github.c
 
 ```
 ### Testando a aplicação
- Devido a configuração do Google API, a aplicação só funciona localhost. 
- Para acessar a aplicação digite o endereço: http://localhost/desafio_upload.
- Em seguida, faça o login na aplicação com uma conta Google.
- Selecione o arquivo para fazer upload(extensão .tab ou txt), a mesma deve retornar uma mensagem de sucesso em relação ao cadastro na parte superior e a soma da Receita brutal na parte inferior da página. 
+ * Devido a configuração do Google API, a aplicação só funciona localhost. 
+ * Para acessar a aplicação digite o endereço: http://localhost/desafio_upload.
+ * Em seguida, faça o login na aplicação com uma conta Google.
+ * Selecione o arquivo para fazer upload(extensão .tab ou txt), a mesma deve retornar uma mensagem de sucesso em relação ao cadastro na parte superior e a soma da Receita brutal na parte inferior da página. 
  
  ## Licença
 
