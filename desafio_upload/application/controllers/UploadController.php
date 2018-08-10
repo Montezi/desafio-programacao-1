@@ -109,7 +109,7 @@ class UploadController extends CI_Controller{
 	        
 	        $configUpload['upload_path']   = $path;
 	        
-	        $configUpload['allowed_types'] = 'tab';
+	        $configUpload['allowed_types'] = 'tab|txt';
 	        
 	        $configUpload['encrypt_name']  = TRUE;
 	 
